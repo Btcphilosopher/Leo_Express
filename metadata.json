@@ -1,0 +1,6 @@
+{
+  "name": "Leo Express",
+  "description": "Modern enterprise-grade mobile application for Leo Express, supporting rail and coach travel across Central Europe with interactive journey planning, ticket booking, offline ticket storage, real-time timetable searches, dynamic seat selection, and a staff/admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
